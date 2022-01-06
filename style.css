@@ -2,14 +2,101 @@ h1 {
   font-family: "Chivo", sans-serif;
   font-size: 50px;
 }
+
 .head {
-  color: #f3a89b;
+  color: rgb(57, 195, 230);
+  margin: 0%;
 }
-.left-first {
-  width: 50%;
+
+.together {
   display: flex;
+  margin-bottom: 100px;
+  padding-left: 80px;
 }
-.right-first {
+.section {
+  margin: 0%;
+}
+.upper-div {
+  margin: 0px;
   width: 50%;
+  padding: 20px 20px;
+  height: 450px;
+  margin-top: 5%;
+  font-weight: 200px;
+  font-family: cursive;
+}
+.together img {
+  width: 500px;
+  padding-top: 10%;
+  padding-left: 30%;
+}
+.first-button {
+  text-decoration: none;
+  background-color: rgb(49, 50, 116);
+  padding: 10px 30px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 500;
+  font-family: cursive;
+  margin-block: 200px;
+}
+.box-shadow {
+  box-shadow: -10px 0 0px -5px rgb(76, 76, 172);
+}
+.pera {
+  margin-bottom: 40px;
+  margin-top: 50px;
+}
+.mission {
+  text-align: center;
+}
+.three-img {
+  width: 150px;
+}
+.middle {
   display: flex;
+  margin: auto;
+}
+.packet1 {
+  background-color: rgba(167, 236, 236, 0.664);
+  border-radius: 40px;
+}
+.packet2 {
+  background-color: rgba(237, 240, 202, 0.589);
+  border-radius: 40px;
+}
+.packet3 {
+  background-color: rgba(228, 191, 230, 0.555);
+  border-radius: 40px;
+}
+.para2 {
+  margin-bottom: 40px;
+  margin-top: 50px;
+  font-weight: 400px;
+  font-family: cursive;
+}
+.card {
+  width: 33.33%;
+  padding-inline: 30px;
+  margin: 15px;
+}
+.third-div {
+  background-image: url(/mission-2022-main/images/shapes/shape-1.png);
+  display: flex;
+  margin: 30px;
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 250px;
+}
+.two-img {
+  width: 50%;
+  margin: 80px;
+}
+
+.limits {
+  background-color: blueviolet;
+  margin-right: 400px;
+}
+.mission-section {
+  margin-inline: 145px;
 }
